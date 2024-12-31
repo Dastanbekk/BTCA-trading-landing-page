@@ -805,6 +805,10 @@ video {
   gap: 8px;
 }
 
+.gap-\[\] {
+  gap: ;
+}
+
 .overflow-hidden {
   overflow: hidden;
 }
